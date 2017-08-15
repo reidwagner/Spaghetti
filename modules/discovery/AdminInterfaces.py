@@ -7,7 +7,6 @@
 # @author: Momo Outaadi (M4ll0k)
 # @license: See the file 'doc/LICENSE'
 
-import re
 from lib.net import http 
 from lib.utils import printer
 from lib.net import utils

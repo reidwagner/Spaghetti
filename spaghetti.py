@@ -11,7 +11,6 @@ from lib.utils import banner
 from lib.net import utils
 from modules.discovery import All
 from modules.fingerprints import CheckAll
-import os
 import sys
 import getopt
 
