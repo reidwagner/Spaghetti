@@ -17,7 +17,6 @@ from os import os
 from lib.net import http
 from lib.net import utils
 from lib.utils import printer
-import re
 
 class CheckAll():
 	""" Docstring for CheckAll """

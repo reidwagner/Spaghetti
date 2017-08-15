@@ -10,7 +10,6 @@
 from lib.net import http 
 from lib.net import utils
 from lib.utils import printer
-import re
 
 class CommonFile():
 	def __init__(self,url,agent,proxy,redirect):
