@@ -20,4 +20,4 @@ class Symfony():
 					return "Symfony"
 					break
 		except Exception,ERROR:
-			print ERROR
+			pass
