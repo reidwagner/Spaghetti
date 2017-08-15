@@ -20,4 +20,4 @@ class Rack():
 					return "Rack"
 					break
 		except Exception,ERROR:
-			print ERROR
+			pass
