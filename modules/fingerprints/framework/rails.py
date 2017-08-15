@@ -20,4 +20,4 @@ class Rails():
 					return "Rails"
 					break
 		except Exception,ERROR:
-			print ERROR
+			pass
